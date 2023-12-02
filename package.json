@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.1.2",
+    "@types/node": "^18.19.0",
+    "eslint": "^8.54.0",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "tsx": "^4.6.1",
+    "typescript": "^5.3.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "run": "tsx"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
